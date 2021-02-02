@@ -22,5 +22,14 @@
     "commander": "^7.0.0",
     "inquirer": "7.3.3",
     "node-persist": "^3.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmayChakrawarty/templateGenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tanmayChakrawarty/templateGenerator/issues"
+  },
+  "homepage": "https://github.com/tanmayChakrawarty/templateGenerator#readme"
 }
