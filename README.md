@@ -4,7 +4,7 @@ It is an npm package that helps you to build files in your directory with your d
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install template generator.
+Use the package manager [npm](https://www.npmjs.com/package/chakrawarty99templategenerator) to install template generator.
 
 ```bash
 npm i chakrawarty99templategenerator -g --save
