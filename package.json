@@ -1,0 +1,26 @@
+{
+  "name": "chakrawarty99templategenerator",
+  "version": "1.0.0",
+  "description": "A CLI for comprtitive programming which generates directory along with template code.",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "competitive programming",
+    "template generator",
+    "dir"
+  ],
+  "author": "tanmayChakrawarty",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^7.0.0",
+    "inquirer": "7.3.3",
+    "node-persist": "^3.1.0"
+  }
+}

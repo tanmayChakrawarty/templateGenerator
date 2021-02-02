@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+const path = require("path");
+path.join(path.dirname(__filename));
+require("../index.js").mainCliProcess(process.argv);
